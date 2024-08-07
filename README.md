@@ -36,3 +36,7 @@ Add hover effects and transitions to the form elements to enhance user interacti
 
 
 ![image](https://github.com/user-attachments/assets/3fc0929d-2cfd-4304-9cb3-b1dbdff10b76)
+![image](https://github.com/user-attachments/assets/76cacf7c-f0c8-47ac-bfcd-3d83dfcefc89)
+![image](https://github.com/user-attachments/assets/fcd6bcb2-e830-4922-9ea9-172eb8c8dad3)
+
+
