@@ -33,3 +33,6 @@ Design a background similar to the one in the provided image, with an animated o
 Use colors and styles that complement the background and make the form stand out.
 Interactivity:
 Add hover effects and transitions to the form elements to enhance user interaction.
+
+
+![image](https://github.com/user-attachments/assets/3fc0929d-2cfd-4304-9cb3-b1dbdff10b76)
